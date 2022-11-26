@@ -1,7 +1,11 @@
 # brew_install
 Sh script for brew installation
 
-git clone
+How to use:
+
+git clone https://github.com/codesshaman/brew_install.git
+
+cd brew_install
 
 chmod +x brew_install.sh
 
